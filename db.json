@@ -1,14 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "records":   [
+	  {
+		"Cusip": "69448B597",
+		"Carrier": "PAC",
+		"Sponsor": "Pacific Life",
+		"AccountsToProcess": "ALL",
+		"AccountTypesToProcess": "VA,SU,MA,DE,AN,PB,PD,CC,FL,NT,DA,GS,LP,SI,SE",
+		"Firm": "LPL"
+	  },
+	  {
+		"Cusip": "69447H363",
+		"Carrier": "PAC",
+		"Sponsor": "Pacific Life",
+		"AccountsToProcess": "ALL",
+		"AccountTypesToProcess": "VA,SU,MA,DE,AN,PB,PD,CC,FL,NT,DA,GS,LP,SI,SE",
+		"Firm": "LPL"
+	  },
+	  {
+		"Cusip": 530707132,
+		"Carrier": "LIB",
+		"Sponsor": "Liberty Mutual",
+		"AccountsToProcess": "ALL",
+		"AccountTypesToProcess": "VA,SU,MA,DE,AN,PB,PD,CC,FL,NT,DA,GS,LP,SI,SE",
+		"Firm": "LPL"
+	  },
+	  {
+		"Cusip": 530707140,
+		"Carrier": "LIB",
+		"Sponsor": "Liberty Mutual",
+		"AccountsToProcess": "ALL",
+		"AccountTypesToProcess": "VA,SU,MA,DE,AN,PB,PD,CC,FL,NT,DA,GS,LP,SI,SE",
+		"Firm": "LPL"
+	  },
+	  {
+		"Cusip": "02772P122",
+		"Carrier": "ANL",
+		"Sponsor": "American National",
+		"AccountsToProcess": "ALL",
+		"AccountTypesToProcess": "VA,SU,MA,DE,AN,PB,PD,CC,FL,NT,DA,GS,LP,SI,SE",
+		"Firm": "LPL"
+	  },
+	  {
+		"Cusip": "02772P205",
+		"Carrier": "ANL",
+		"Sponsor": "American National",
+		"AccountsToProcess": "ALL",
+		"AccountTypesToProcess": "VA,SU,MA,DE,AN,PB,PD,CC,FL,NT,DA,GS,LP,SI,SE",
+		"Firm": "LPL"
+	  }
+  ]
 }
